@@ -1,7 +1,3 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
 const maxSubArray =(nums)=>{
     let sum=0;
     let max=nums[0];
